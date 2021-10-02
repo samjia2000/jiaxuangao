@@ -1,6 +1,6 @@
 ---
-widget: about test
-widget_id: TEST
+widget: about
+widget_id: T
 headless: true
 weight: 20
 title: Biography
